@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[38869,["/e-l-studio-app/_next/static/chunks/0d2d9eb2b8d95706.js","/e-l-studio-app/_next/static/chunks/791e7497b40c057e.js","/e-l-studio-app/_next/static/chunks/16287eeea60571e4.js"],"default"]
+3:I[97367,["/e-l-studio-app/_next/static/chunks/ff1a16fafef87110.js","/e-l-studio-app/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"y9caz3AfbRUuyeRIQPIro","rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"4","name":"Blazer de Lana Entallado","price":395,"category":"blazers","images":["https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=1200&q=80","https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=1200&q=80"],"description":"Blazer clásico entallado en lana premium. Con hombros estructurados y ajuste refinado que funciona de la oficina a la noche.","sizes":["XS","S","M","L","XL"],"featured":true}}],[["$","script","script-0",{"src":"/e-l-studio-app/_next/static/chunks/16287eeea60571e4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
